@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API Testing Suite" parallel="false">
+
+    <test name="Zippopotam API Tests">
+        <classes>
+            <class name="org.example.ex02_ra.Apitesting_TC_Testng_Fix"/>
+        </classes>
+    </test>
+
+</suite>
