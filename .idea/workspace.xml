@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2156e66f-42a7-499d-8161-0f170ca1c136" name="Changes" comment="commit" />
+    <list default="true" id="2156e66f-42a7-499d-8161-0f170ca1c136" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yashaswini200&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yashaswini200/ApiAutomationProgram.git&quot;,
+    &quot;accountId&quot;: &quot;1595f59d-409b-41bb-ab82-ced3d349be67&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -38,6 +53,12 @@
     "Application.Apitesting005_multipletestcase.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.ApiTesting006_BDDstyle.executor": "Run",
+    "TestNG.ApiTesting008_Get_NonBDDstyle.executor": "Run",
+    "TestNG.Apitesting009_post_nonBddstyle.executor": "Run",
+    "TestNG.Apitesting010_post_bddstyle.executor": "Run",
+    "TestNG.Apitesting011_put_nonBddstyle.executor": "Run",
     "TestNG.Apitesting_TC_Testng_Fix.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -50,12 +71,51 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="org.example.ex02_ra" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Apitesting011_put_nonBddstyle">
+    <configuration name="ApiTesting008_Get_NonBDDstyle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Api_Teseting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ex03_get_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.ex03_get_request" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ex03_get_request.ApiTesting008_Get_NonBDDstyle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Apitesting011_put_nonBddstyle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Api_Teseting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ex04_put_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.ex04_put_request" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ex04_put_request.Apitesting011_put_nonBddstyle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Apitesting_TC_Testng_Fix" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Api_Teseting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.ex02_ra.*" />
+          <option name="PATTERN" value="org.example.ex03_get_request.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,6 +130,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Apitesting011_put_nonBddstyle" />
+        <item itemvalue="TestNG.ApiTesting008_Get_NonBDDstyle" />
         <item itemvalue="TestNG.Apitesting_TC_Testng_Fix" />
       </list>
     </recent_temporary>
@@ -99,11 +161,30 @@
       <option name="project" value="LOCAL" />
       <updated>1741798268698</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1741798567454</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741798567454</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/ex04_post_request/Apitesting009_post_nonBddstyle.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
