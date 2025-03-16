@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2156e66f-42a7-499d-8161-0f170ca1c136" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +56,23 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.ApiTesting006_BDDstyle.executor": "Run",
     "TestNG.ApiTesting008_Get_NonBDDstyle.executor": "Run",
+    "TestNG.ApiTesting021_alwaysrun.executor": "Run",
+    "TestNG.Apitesing015_all_annotations.executor": "Run",
+    "TestNG.Apitesing022_invocationCount.executor": "Run",
     "TestNG.Apitesting009_post_nonBddstyle.executor": "Run",
     "TestNG.Apitesting010_post_bddstyle.executor": "Run",
     "TestNG.Apitesting011_put_nonBddstyle.executor": "Run",
+    "TestNG.Apitesting019_Testng_parameter.executor": "Run",
+    "TestNG.Apitesting020_enabled.executor": "Run",
+    "TestNG.Apitesting023_all_annotation.executor": "Run",
+    "TestNG.Apitesting025_Restassured_assertion.executor": "Run",
+    "TestNG.Apitesting028_restassured_payload_map.executor": "Run",
+    "TestNG.Apitesting030_restassured_gson.executor": "Run",
     "TestNG.Apitesting_TC_Testng_Fix.executor": "Run",
+    "TestNG.Apitesting_testng_assertion.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/babus/IdeaProjects/Api_Teseting",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -72,11 +83,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\babus\IdeaProjects\Api_Teseting" />
+    </key>
     <key name="MoveInnerDialog.RECENTS_KEY">
       <recent name="org.example.ex02_ra" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Apitesting011_put_nonBddstyle">
+  <component name="RunManager">
     <configuration name="ApiTesting008_Get_NonBDDstyle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Api_Teseting" />
       <extension name="coverage">
@@ -169,7 +183,39 @@
       <option name="project" value="LOCAL" />
       <updated>1741798567454</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1741886244596</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741886244596</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1742119896823</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742119896823</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <option name="closed" value="true" />
+      <created>1742120003850</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742120003850</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <option name="closed" value="true" />
+      <created>1742120073653</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742120073653</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
