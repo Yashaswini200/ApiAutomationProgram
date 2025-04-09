@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API Testing Suite" parallel="false">
+
+    <test name=" API Tests group">
+        <groups>
+            <run>
+                <include name="sanity">
+
+                </include>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.example.ex07_annotation.Apitesing017_Testng_group"/>
+        </classes>
+    </test>
+
+</suite>
