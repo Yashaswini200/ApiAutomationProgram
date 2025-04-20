@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API Testing Suite" parallel="false">
+
+    <test name="Zippopotam API Tests">
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="org.example.ex07_annotation.Apitesting019_Testng_parameter"/>
+        </classes>
+    </test>
+    </suite>
