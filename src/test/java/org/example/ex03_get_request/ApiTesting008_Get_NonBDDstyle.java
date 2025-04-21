@@ -1,4 +1,4 @@
-package org.example.ex03_get_request;
+﻿package org.example.ex03_get_request;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
