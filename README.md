@@ -5,7 +5,7 @@
 1. Programming - Java
 2. Rest Assured
     1. JSON schema - Validation - Rest Assured.
-    2. HTTP Methods -
+    2. HTTP Methods-
     3. Verify Response - Rest Assured
 3. Manage your Payload - Jackson API, Gson (Pojo)
 4. Logs - Log4J
