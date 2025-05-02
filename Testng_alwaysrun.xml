@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="API Testing Suite" parallel="false">
 
-    <test name=" API Tests group">
+    <test name=" API Tests groups">
 
         <classes>
             <class name="org.example.ex07_annotation.ApiTesting021_alwaysrun"/>
